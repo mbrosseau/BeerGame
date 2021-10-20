@@ -40,9 +40,14 @@
         <members>Game_Home</members>
         <name>CustomTab</name>
     </types>
+	<types>
+		<members>registerGame</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>GameStartFlow</members>
+		<name>Flow</name>
+	</types>
 
-
-
-    <version>53.0</version>
-
+    <version>51.0</version>
 </Package>
