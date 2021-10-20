@@ -40,14 +40,24 @@
         <members>Game_Home</members>
         <name>CustomTab</name>
     </types>
+	
+	<types>
+		<members>GameStartFlow</members>
+		<name>Flow</name>
+	</types>
+
 	<types>
 		<members>registerGame</members>
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
-		<members>GameStartFlow</members>
-		<name>Flow</name>
+		<members>Beer_Game_UtilityBar</members>
+		<members>Game</members>
+		<members>Game_Configuration_Record_Page</members>
+		<members>Game_Instance_Record_Page</members>
+		<name>FlexiPage</name>
 	</types>
+	
 
     <version>51.0</version>
 </Package>
